@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Visualization Dashboard with React.js and D3.js
+![Dashboard with React and D3.js](https://github.com/pratikmandge/Visualization-Dashboard-with-React.js-and-D3.js/assets/88229260/ae371715-2dd6-443a-b9f6-ab773b51fd17)
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
